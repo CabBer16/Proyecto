@@ -9,7 +9,7 @@ grafo = {
     "Zapopan Norte": {"CETI Colomos": 20},
 }
 
-grafos = {
+grafoss = {
     "Plaza Patria": {"Glorieta Minerva": 12},
     "Tonalá": {"Paradero Tlaquepaque": 20},
     "Paradero Tlaquepaque": {"Glorieta Minerva": 18},
